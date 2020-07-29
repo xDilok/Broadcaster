@@ -1,0 +1,4 @@
+name: Broadcaster
+main: pl.xdilok.broadcaster.Broadcaster
+version: 1.0
+author: xDilok
